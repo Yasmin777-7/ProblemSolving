@@ -72,4 +72,49 @@ Language
 
 - C++
 
+------------------------------------
+
+# Problem 5 - Digit Frequency
+
+## Description
+
+This program reads a positive integer and a digit from the user, then counts how many times the given digit appears in the number.
+
+## Example
+
+**Input**
+
+```
+Please enter a positive number: 122452
+Enter the digit: 2
+```
+
+**Output**
+
+```
+Digit 2 Frequency is 3
+```
+
+## Algorithm
+
+1. Read a positive integer.
+2. Read the digit to search for.
+3. Extract each digit of the number using the modulus operator (`% 10`).
+4. Compare the extracted digit with the target digit.
+5. Increase the counter whenever they match.
+6. Continue until all digits have been checked.
+7. Print the frequency of the digit.
+
+## Concepts Used
+
+* Functions
+* `while` loop
+* `if` statement
+* Arithmetic operators (`%`, `/`)
+* Variables and counters
+
+## Language
+
+* C++
+
   
