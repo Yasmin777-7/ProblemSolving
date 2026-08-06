@@ -164,4 +164,52 @@ The program:
 * C++
 
 
+--------------------------------------------
+
+# Problem Solving #07 - Number Pattern
+
+## Description
+
+This C++ program prints an increasing number pattern based on a positive integer entered by the user.
+
+The program performs the following steps:
+
+* Prompts the user to enter a positive integer.
+* Validates the input to ensure it is not negative.
+* Uses nested `for` loops to generate the pattern.
+* Prints each number repeatedly according to its row number.
+
+## Example
+
+**Input**
+
+```text
+5
+```
+
+**Output**
+
+```text
+1
+22
+333
+4444
+55555
+```
+
+## Concepts Practiced
+
+* Functions
+* Nested Loops
+* User Input
+* Input Validation
+* Pattern Printing
+* Problem Solving
+
+## Language
+
+* C++
+
+
+
   
