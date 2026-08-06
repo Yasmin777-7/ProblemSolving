@@ -211,5 +211,52 @@ The program performs the following steps:
 * C++
 
 
+------------------------------------------
+
+# Problem Solving #08 - Print Words from AAA to ZZZ
+
+## Description
+
+This C++ program generates and prints three-letter uppercase combinations using nested loops.
+
+The program:
+
+* Uses ASCII values to represent uppercase letters (`A` to `Z`).
+* Generates three-letter combinations with nested `for` loops.
+* Prints each generated combination on a separate line.
+* Demonstrates the use of nested loops and character conversion.
+
+## Example
+
+**Output (Beginning)**
+
+```text
+AAA
+AAB
+AAC
+...
+```
+
+**Output (Ending)**
+
+```text
+ZZX
+ZZY
+ZZZ
+```
+
+## Concepts Practiced
+
+* Functions
+* Nested Loops
+* ASCII Character Conversion
+* Character Patterns
+* Problem Solving
+
+## Language
+
+* C++
+
+
 
   
