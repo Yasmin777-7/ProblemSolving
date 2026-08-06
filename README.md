@@ -117,4 +117,51 @@ Digit 2 Frequency is 3
 
 * C++
 
+-------------------------------------
+
+# Problem Solving #06 - Inverted Number Pattern
+
+## Description
+
+This C++ program prints an inverted number pattern based on a positive integer entered by the user.
+
+The program:
+
+* Reads a positive integer from the user.
+* Uses nested `for` loops to generate the pattern.
+* Prints each number repeatedly on its corresponding line.
+* Demonstrates the use of functions, loops, and basic input validation.
+
+## Example
+
+**Input**
+
+```text
+5
+```
+
+**Output**
+
+```text
+55555
+4444
+333
+22
+1
+```
+
+## Concepts Practiced
+
+* Functions
+* Nested Loops
+* User Input
+* Input Validation
+* Pattern Printing
+* Problem Solving
+
+## Language
+
+* C++
+
+
   
