@@ -259,4 +259,46 @@ ZZZ
 
 
 
+----------------------------------------
+## Problem 9: Text Encryption and Decryption
+
+### Problem Description
+
+Write a C++ program that reads a text from the user and performs simple encryption and decryption.
+
+* Read a text from the user.
+* Encrypt the text by increasing the ASCII value of each character by `2`.
+* Decrypt the encrypted text by decreasing the ASCII value of each character by `2`.
+* Display the original, encrypted, and decrypted text.
+
+### Example
+
+**Input:**
+
+```text
+Enter the name ?
+Yasmin
+```
+
+**Output:**
+
+```text
+Text Before Encryption : Yasmin
+Text After Encryption : [encrypted text]
+Text After Decryption : Yasmin
+```
+
+### Functions Used
+
+* `ReadText()` → Reads the text from the user.
+* `EncryptText()` → Encrypts each character by adding `2`.
+* `DecryptText()` → Decrypts each character by subtracting `2`.
+
+### Key Concept
+
+The program uses the **ASCII values of characters** to perform a simple encryption and decryption process.
+
+
+
+
   
